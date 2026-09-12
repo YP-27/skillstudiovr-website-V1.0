@@ -48,7 +48,7 @@ img.img-placeholder{width:100%;aspect-ratio:4/3;height:auto;min-height:0;object-
 .btn-green:hover{transform:translateY(-3px);box-shadow:0 14px 30px rgba(30,138,60,0.4);}
 
 /* HOME HERO (centered, no image) */
-.hero{background:linear-gradient(160deg, var(--green) 0%, var(--green-deep) 100%);color:#fff;padding:90px 0;}
+.hero{background:linear-gradient(180deg,#0F2314 0%, var(--green-deep) 100%);color:#fff;padding:90px 0;}
 .hero .wrap{text-align:center;}
 .hero h1{color:#fff;font-size:44px;max-width:760px;margin:0 auto 16px;}
 .hero p.sub{color:#D7E7DA;font-size:18px;max-width:600px;margin:0 auto 30px;}
